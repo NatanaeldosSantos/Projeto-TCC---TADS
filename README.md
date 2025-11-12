@@ -28,12 +28,12 @@ Permite **cadastrar, listar, editar e mover equipamentos entre listas** ("Equipa
 
 ---
 
-🧠 Próximos Passos (To-Do)
+ ## 🧠 Próximos Passos (To-Do)
 
- 📝Implementar busca por nome/código
- 📝Adicionar filtros e ordenação
- 📝Sincronizar dados com servidor remoto
- 📝Adicionar tema escuro
+- 📝 Implementar busca por nome/código
+- 📝 Adicionar filtros e ordenação 
+- 📝 Sincronizar dados com servidor remoto 
+- 📝 Adicionar tema escuro 
 
 ---
 
